@@ -1,12 +1,14 @@
 ### Hi 👋
 
-I'm a passionate software engineer deeply dedicated to the art of software development. My journey in the tech world is fueled by a love for clean code, problem-solving, and continuous learning.
+As an enthusiastic software engineer, I live and breathe software development. My journey in the tech world is driven by a passion for clean code, problem-solving, and relentless learning.
 
-I have a solid background in working with Ruby, and I also enjoy diving into personal projects with Elixir.
+I have a solid foundation in Ruby and eagerly dive into personal projects using Elixir.
 
-I appreciate collaborative environments that encourage teamwork and a balanced work-life dynamic.
+I value collaborative environments that promote teamwork and maintain a healthy work-life balance.
 
 ### ☕ Be in touch
+
+Let's connect? I love exchanging ideas about technology and innovation!
 
   <a href="https://in.linkedin.com/in/diegomlinhares" target="_blank">
     <img align="left" alt="Diego | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
