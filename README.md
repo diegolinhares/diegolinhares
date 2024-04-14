@@ -6,9 +6,7 @@ I have a solid foundation in Ruby and eagerly dive into personal projects using 
 
 I value collaborative environments that promote teamwork and maintain a healthy work-life balance.
 
-### ☕ Be in touch
-
-Let's connect? I love exchanging ideas about technology and innovation!
+☕ Let's connect? I love exchanging ideas about technology and innovation!
 
   <a href="https://in.linkedin.com/in/diegomlinhares" target="_blank">
     <img align="left" alt="Diego | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
